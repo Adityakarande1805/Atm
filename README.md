@@ -1,8 +1,7 @@
-# Atm
-import java.util.*;
+     import java.util.*;
 
-public class ATM 
-{
+     public class ATM 
+    {
     private double b;
     private Scanner s;
 
